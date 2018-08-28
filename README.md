@@ -1,0 +1,2 @@
+# .github.io
+Apply freenom
